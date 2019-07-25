@@ -1,0 +1,107 @@
+{"CountryName": "Georgia",
+    "CountryArea": 13000000,
+    "CountryTowns": [
+                        {
+                            "TownName": "tbilisi",
+                            "TownArea": 123412312,
+                            "TownBuildings": [
+                                                {
+                                                    "BuildingAddress": "meshvide",
+                                                    "BuildingBuildDate": "13/03/1998",
+                                                    "BuildingAppartments": [
+                                                                            {
+                                                                                "AppartmentIndex": 7777,
+                                                                                "AppartmentHumans": [
+                                                                                                        {
+                                                                                                            "HumanName": "akaki",
+                                                                                                            "HumanBirthDate": "29/09/1997"
+                                                                                                        }
+                                                                                                        {
+                                                                                                            "HumanName": "tamuna",
+                                                                                                            "HumanBirthDate": "15/02/1994"
+                                                                                                        }      
+                                                                                                        {
+                                                                                                            "HumanName": "elene",
+                                                                                                            "HumanBirthDate": "12/03/1995"
+                                                                                                        }
+                                                                                                    ],
+                                                                                "AppartmentAnimals": [
+                                                                                                       {
+                                                                                                           "AnimalName": "fiso"
+                                                                                                       }
+                                                                                                        {"AnimalName": "loma"
+    {
+    ]
+    }
+    {"AppartmentIndex": 8888,
+    "AppartmentHumans": [
+    {"HumanName": "jora",
+    "HumanBirthDate": "01/01/1996"
+    }
+    {"HumanName": "natia",
+    "HumanBirthDate": "09/09/1990"
+    }
+    ],
+    "AppartmentAnimals": [
+    {"AnimalName": "kata"
+    {
+    {"AnimalName": "dzagli"
+    {
+    {"AnimalName": "leopardi"
+    {
+    ]
+    }
+    ]
+    }
+    {"BuildingAddress": "merve",
+    "BuildingBuildDate": "01/03/1970",
+    "BuildingAppartments": [
+    {"AppartmentIndex": 4444,
+    "AppartmentHumans": [
+    {"HumanName": "pavle",
+    "HumanBirthDate": "03/03/1998"
+    }
+    ],
+    "AppartmentAnimals": [
+    {"AnimalName": "fiso"
+    {
+    ]
+    }
+    {"AppartmentIndex": 5555,
+    "AppartmentHumans": [
+    {"HumanName": "lika",
+    "HumanBirthDate": "04/04/1970"
+    }
+    {"HumanName": "ana",
+    "HumanBirthDate": "05/05/1980"
+    }
+    ],
+    "AppartmentAnimals": [
+    {"AnimalName": "kata"
+    {
+    ]
+    }
+    {"AppartmentIndex": 6666,
+    "AppartmentHumans": [
+    {"HumanName": "erekle",
+    "HumanBirthDate": "12/11/1996"
+    }
+    {"HumanName": "borka",
+    "HumanBirthDate": "08/09/1990"
+    }
+    {"HumanName": "giorgi",
+    "HumanBirthDate": "12/03/1991"
+    }
+    ],
+    "AppartmentAnimals": [
+    {"AnimalName": "pingvini"
+    {
+    {"AnimalName": "datvi"
+    {
+    ]
+    }
+    ]
+    }
+    ]
+    }
+    ]
